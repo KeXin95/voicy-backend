@@ -5,3 +5,4 @@ ebooklib
 gunicorn 
 fish-audio-sdk
 python-dotenv
+pydub

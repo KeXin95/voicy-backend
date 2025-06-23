@@ -1,0 +1,13 @@
+.git
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+uploads/
+outputs_v2/
+*.mp3
+*.wav
+notes
+app_ori.py
+.gitignore 

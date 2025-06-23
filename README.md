@@ -24,7 +24,8 @@ If running the backend directly (e.g., Flask/FastAPI), it may be at:
 👉 http://127.0.0.1:5001
 
 ### 🧪 Example Request
-```curl -X POST -F "cid=bafkreicyxa77q63asy4j7p6wxoth5bn3e7kblhskyk7g67txcb7xwuqdfa" \
+```
+curl -X POST -F "cid=bafkreicyxa77q63asy4j7p6wxoth5bn3e7kblhskyk7g67txcb7xwuqdfa" \
   -F "text=Hello, this is the text to synthesize" http://127.0.0.1:5001/api/voice-transfer --output cloned_voice.mp3
 ```
 
